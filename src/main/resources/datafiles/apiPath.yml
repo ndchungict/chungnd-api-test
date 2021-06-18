@@ -1,0 +1,4 @@
+path:
+  - auth: /auth
+  - booking: /booking
+  - health_check: /ping
